@@ -1,2 +1,3 @@
 # Birthday_Wisher
-Envia um e-mail de feliz aniversário no dia informado.
+# Esse programa enviará um email de feliz aniversário para os aniversariantes no dia de seus aniversários.
+# As informações dos aniversariantes devem estar no arquivo "birthdays.csv"
